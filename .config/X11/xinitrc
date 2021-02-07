@@ -1,0 +1,2 @@
+#Run the window manager
+exec bspwm
