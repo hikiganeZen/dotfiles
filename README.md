@@ -1,2 +1,2 @@
-# dotfiles
-This will contain all of my configurations
+# Dotfiles
+Simple, bloatless, reliable, no more no less just a dotfiles
