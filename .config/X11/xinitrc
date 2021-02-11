@@ -1,5 +1,5 @@
 #Set monitor
-xrandr_vga_as_main_dual_monitor &
+$HOME/.local/bin/xrandr_vga_as_main_dual_monitor &
 
 #Set wallpaper
 wallpaperd &
@@ -8,4 +8,4 @@ wallpaperd &
 xbindkeys -f /home/front/dotfiles/.config/xbindkeys/config -p &
 
 #Run the window manager
-exec bspwm
+exec echinus
