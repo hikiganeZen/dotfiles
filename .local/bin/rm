@@ -1,5 +1,0 @@
-#!/bin/sh
-
-for files in `ls -A $1`; do
-	rm -rf $1/$files
-done
