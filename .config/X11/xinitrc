@@ -1,9 +1,6 @@
 #Set monitor
 $HOME/.local/bin/xrandr_vga_as_main_dual_monitor &
 
-#Set wallpaper
-wallpaperd &
-
 #Set key bindings
 xbindkeys -f /home/front/dotfiles/.config/xbindkeys/config -p &
 
